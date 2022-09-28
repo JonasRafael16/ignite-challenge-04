@@ -15,6 +15,6 @@ This application performs the CRUD (Create, Read, Update) of users. Also, it is 
 - GET /users/:user_id → displays user information.
 
 Use
-With the dependencies installed, I ran yarn dev to upload the server.
+Enter the project folder and run the yarn command. With the dependencies installed, I ran yarn dev to upload the server.
 
 *In this challenge I was able to put my knowledge about SOLID into practice using them in typescript*
